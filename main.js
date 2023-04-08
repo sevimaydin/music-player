@@ -31,6 +31,18 @@ let allMusic = [
       img: "music-3",
       src: "music-3",
     },
+    {
+      name: "Slchld",
+      artist: "Demo", 
+      img: "music-4",
+      src: "music-4",
+    },
+    {
+      name: "Painting greys",
+      artist: "Emmit Fenn", 
+      img: "music-5",
+      src: "music-5",
+    },
   
   ];
 
