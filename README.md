@@ -1,5 +1,5 @@
 # Müzik Çalar Uygulaması
-- Bu proje, HTML5, CSS3 ve JavaScript kullanılarak geliştirilen basit bir müzik çalar uygulamasıdır. Bu uygulama, kullanıcılara web üzerinden müzik dinleme imkanı sağlar.
+- Bu proje, HTML5, CSS3 ve JavaScript kullanılarak geliştirilen basit bir müzik çalar uygulamasıdır. Uygulama, kullanıcılara web üzerinden müzik dinleme imkanı sağlar.
 
 
 
