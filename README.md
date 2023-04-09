@@ -7,7 +7,7 @@
 ## İçerik
 - Müzik çalmak, duraklatmak, ileri veya geri sarmak için düğmeler bulunmaktadır.
 - Müzik çaların zaman çubuğu ile çalınan müziğin ilerleyişi görsel olarak takip edilebilir.
-- Kullanıcıların seçtikleri müziklerin adı, sanatçısı ve albüm bilgisi gibi bilgiler de görüntülenebilir.
+- Kullanıcıların seçtikleri müziklerin adı, sanatçısı gibi bilgiler de görüntülenebilir.
 
 #### Önizleme 
 
