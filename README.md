@@ -15,23 +15,5 @@
 
 - Projeyi aktif olarak görmek için 
     - [Music Player ](https://sevimaydin.github.io/music-player/) sayfasını ziyaret edebilirsiniz.
->>>>>>> f9da80a5576631a7ff9e376a41f4ec3e82724876
-
-
-
-
-<<<<<<< HEAD
-## İçerik
-- Müzik çalmak, duraklatmak, ileri veya geri sarmak için düğmeler bulunmaktadır.
-- Müzik çaların zaman çubuğu ile çalınan müziğin ilerleyişi görsel olarak takip edilebilir.
-- Kullanıcıların seçtikleri müziklerin adı, sanatçısı gibi bilgiler de görüntülenebilir.
-
-#### Önizleme 
-
-- Projeyi aktif olarak görmek için 
-    - [Music Player ](https://sevimaydin.github.io/music-player/) sayfasını ziyaret edebilirsiniz.
 
       - ![](  ekran.gif )
-=======
-
->>>>>>> f9da80a5576631a7ff9e376a41f4ec3e82724876
