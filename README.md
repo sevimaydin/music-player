@@ -1,11 +1,17 @@
-# Music -player
+# Müzik Çalar Uygulaması
+- Bu proje, HTML5, CSS3 ve JavaScript kullanılarak geliştirilen basit bir müzik çalar uygulamasıdır. Uygulama, kullanıcılara web üzerinden müzik dinleme imkanı sağlar.
 
 
-## Proje 
-
-Projeyi aktif olarak görmek için :[link ](https://sevimaydin.github.io/music-player/)
 
 
-### Kullanılan teknolojiler
+## İçerik
+- Müzik çalmak, duraklatmak, ileri veya geri sarmak için düğmeler bulunmaktadır.
+- Müzik çaların zaman çubuğu ile çalınan müziğin ilerleyişi görsel olarak takip edilebilir.
+- Kullanıcıların seçtikleri müziklerin adı, sanatçısı gibi bilgiler de görüntülenebilir.
 
-HTML CSS JAVASCRİPT
+#### Önizleme 
+
+- Projeyi aktif olarak görmek için 
+    - [Music Player ](https://sevimaydin.github.io/music-player/) sayfasını ziyaret edebilirsiniz.
+
+      - ![](  ekran.gif )
