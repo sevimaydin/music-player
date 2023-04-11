@@ -10,5 +10,6 @@
 
 - Projeyi aktif olarak görmek için 
     - [Music Player ](https://player1music.netlify.app/) sayfasını ziyaret edebilirsiniz.
+    - ![](ekran.gif)
 
 
